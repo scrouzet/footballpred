@@ -1,6 +1,8 @@
 # footballpred
 Various ideas, datasets and analyses around football predictions
 
+## Links
+https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/kernels
 
 ## Basic score prediction
 The 1st ideal dataset would be :
