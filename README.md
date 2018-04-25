@@ -1,2 +1,2 @@
 # footballpred
-Various ideas, datasets and analysis around football predictions
+Various ideas, datasets and analyses around football predictions
