@@ -4,7 +4,8 @@ Various ideas, datasets and analyses around football predictions
 ## To do
 - Datasets in R : https://cran.r-project.org/web/packages/engsoccerdata/README.html
 - http://www.toutlemondesenfoot.fr/blog/2018/04/26/optax-3e-partie-le-coaching-a-lere-de-lintelligence-artificielle/
-- Example of cool dataviz of scorer : http://johnburnmurdoch.github.io/projects/goal-lines/all-comps/. Apparently it's based on data from http://www.worldfootball.net, investigate how to get them (contact the guy ?).
+- Example of cool dataviz of scorer : http://johnburnmurdoch.github.io/projects/goal-lines/all-comps/. Apparently it's based on data from http://www.worldfootball.net, investigate how to get them (contact the guy?).
+- See https://github.com/Softcadbury/football-peek and how he does it. Possibility to plug to this repository where everything is already in JSON. But for how long will it be maintained?
 
 ## Links
 https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/kernels
